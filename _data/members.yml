@@ -1,0 +1,74 @@
+# Members
+
+- name: Denis Voskov
+  role: Project leader / thermal-compositional capabilities
+  img: /assets/img/team/denis.jpg
+  github: darts-web
+  bio: Denis is an Associate Professor at TU Delft. He received his Ph.D. degree in Applied Mathematics from Gubkin Russian University of Oil and Gas in 2002. Dr. Voskov former positions include senior researcher at Stanford University, founder and chief technology officer of Rock Flow Dynamics company, chief engineer at YUKOS EP company, and leading engineer-mathematician at the Institute for Problems in Mechanics within the Russian Academy of Sciences.
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/reservoir-engineering/staff/academic-staff/dr-dv-denis-voskov/
+  #project_link: /projects/#Denis
+  visible: true
+   
+- name: Mark Khait
+  role: Main developer of simulation engine and infrastructure
+  img: /assets/img/team/mark.jpg
+  github: darts-web
+  bio: Mark is a postdoc in Reservoir Engineering at Delft University of Technology. He received his Ph.D. degree in Petroleum Engineering from TU Delft in 2019. His current research interests include reservoir simulation, nonlinear solvers, high-performance computing, manycore architectures and deep learning. During his Pd.D., Mark has also completed internships at Stone Ridge Technology and Aramco Research Center. Previously, he worked for eight years as a Senior Researcher at Rosneft Oil Company. 
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/reservoir-engineering/staff/phd-students/m-mark-khait-msc/
+  #project_link: /capabilities/#Mark
+  visible: true
+  
+- name: Stephan de Hoop
+  role: Chemical reactions and discretization
+  img: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/4/f/csm_Picture%20Hoop%2C%20de_206d901be6.jpg
+  github: darts-web
+  bio: Stephan is a Ph.D. candidate at the Delft University of Technology. He started his Ph.D. in December 2017. He received his Master of Science in Petroleum Engineering and Geoscience also from the Delft University of Technology (cum laude). He did his bachelor is in Civil Engineering. Main research interests are numerical methods for reservoir simulation and uncertainty quantification.
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/applied-geology/staff/phd-students/s-stephan-de-hoop-msc/
+  #project_link: /projects/#Stephan
+  visible: true
+  
+- name: Yang Wang
+  role: Geothermal capabilities
+  img: /assets/img/team/yang.jpg
+  github: darts-web
+  bio: Yang is a Ph.D. candidate at TU Delft. He received his bachelor and master degree in Petroleum Engineering from China University of Petroleum in 2013 and 2016 respectively. After that, he started his Ph.D. journey at TU Delft. His research interests include nonlinear flow and reactive transport in high-enthalpy geothermal systems.
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/reservoir-engineering/staff/phd-students/y-yang-wang-msc/
+  #project_link: /projects/#Yang
+  visible: true
+  
+- name: Xiaocong Lyu
+  role: Black-oil and foam capabilities
+  img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Staff/PhD%20Students/Picture%20Lyu%2C%20Xiaocong.jpg
+  github: darts-web
+  bio: Xiaocong is a Ph.D. candidate at TU Delft. He received his master’s degree in petroleum engineering from China University of Petroleum (Beijing) in 2017. His current research interest is to study the complex foam behavior in porous media during foam enhanced oil recovery (EOR) processes based on the data obtained from lab experiments or field observation. Foam then is injected to mitigate gravity override and improve gas sweep efficiency, which provides a possible strategy to develop robust and efficient CO2 EOR and storage technology.
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/geo-engineering/staff/phd-students/x-lyu/
+  #project_link: /projects/#Xiaocong
+  visible: true
+  
+- name: Kiarash Mansour Pour
+  role: Multi-segmented well
+  img: https://d1rkab7tlqy5f1.cloudfront.net/CiTG/Over%20faculteit/Afdelingen/Geoscience%20Engineering/Petroleum%20Engineering/Staff/picture%20Mansour%20Pour%2C%20Kiarash.jpg
+  github: darts-web
+  bio: Kiarash is currently a Ph.D. candidate in Delft University of technology. He received his master degree in Energy Engineering from Politecnico di Milano. His main research project is about the numerical simulation of the Geothermal well.
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/reservoir-engineering/staff/phd-students/mansour-pour-k/
+  #project_link: /projects/#Kiarash
+  visible: true
+  
+- name: Xiaoming Tian
+  role: Optimization and adjoint gradients
+  img: /assets/img/team/xiaoming.jpg
+  github: darts-web
+  bio: Xiaoming is a Ph.D. candidate at Delft University of Technology. He received his bachelor and master degree in Petroleum Engineering from China University of Geosciences (Beijing) and China University of Petroleum (Beijing), respectively. His research interests include compositional flow simulation and optimizations based on adjoint gradients.
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/reservoir-engineering/staff/phd-students/tian-x/
+  #project_link: /projects/#Xiaoming
+  visible: true
+
+  name: Aleks Novikov 
+  role: Geomechanics and induced seismicity
+  img: /assets/img/team/aleks.jpg
+  github: darts-web
+  bio: Aleks is a Ph.D. candidate at TU Delft. He received his bachelor and master degree in Applied Physics and Mathematics from Moscow Institute of Physics and Technology. His current research is dedicated to numerical methods in geomechanics, coupled flow and poromechanical simulation for induced seismicity problem. Previously Aleks worked for four years as a Software Developer in Exploration and Production Software branch of Emerson. 
+  url: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/reservoir-engineering/staff/phd-students
+  #project_link: /projects/#Aleks
+  visible: true
+  

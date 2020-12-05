@@ -1,0 +1,58 @@
+title                   : "DARTS - Delft Advanced Research Terra Simulator"
+title_separator         : "|"
+name                    : &name "darts-web"
+description             : &description "Information on the current state of DARTS, related projects and developing team"
+#email                   : D.V.Voskov@tudelft.nl
+#baseurl                 : "/darts-web" # the subpath of your site, e.g. /blog
+#logo		        : "logo.png" 
+url                     : "https://darts.citg.tudelft.nl" # the base hostname & protocol for your site, e.g. http://example.com
+#logo                    : "/assets/logo.png"
+#github_username         : *uname1
+
+# social links
+#twitter_username: jekyllrb
+#github_username:  jekyll
+#rss: rss
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+# youtube_channel_name: CloudCannon
+# telegram_username: jekyll
+# googleplus_username: +jekyll
+# microdotblog_username: jekyll
+
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - details.md
+ - members.md
+# - projects.md
+ - capabilities.md
+ - applications.md
+ 
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
